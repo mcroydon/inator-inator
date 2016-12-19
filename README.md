@@ -8,8 +8,8 @@ You'll need to compile [your own newline-delimited list of inators](http://phine
 
 Once you've done that, you're good to go. Try a dry run:
 
-  $ python inator.py --inator-path=/path/to/inators.txt --dry-run
-  Blend-Into-The-Invis-inator
+    $ python inator.py --inator-path=/path/to/inators.txt --dry-run
+    Blend-Into-The-Invis-inator
 
 Once that works, you can add your values for `--consumer-key`, `--consumer-secret`, `--access-token`, and `--token-secret` and it's time to assemble an off-to-the-races-inator.
 
